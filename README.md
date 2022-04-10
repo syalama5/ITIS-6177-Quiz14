@@ -11,5 +11,9 @@ courseName varchar(10)
 );
 
 2.Open the project folder in the terminal
+
 3.cd student_api
+
 4.npm start
+
+5.execute localhost:3000 in the browser for executing the API
